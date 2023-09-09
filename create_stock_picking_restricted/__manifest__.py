@@ -1,6 +1,6 @@
 {
     'name': 'Create Manual Stock Picking Restricted',
-    'version': '6.1.0',
+    'version': '5.1.0',
     'category': 'Warehouse',
     "author": 'Zero Systems',
     "company": 'Zero for Information Systems',
