@@ -16,7 +16,7 @@
         'security/security.xml',
 
     ],
-    "price": 25.00,
+    "price": 0.00,
     "currency": 'EUR',
     'installable': True,
     'auto_install': False,
