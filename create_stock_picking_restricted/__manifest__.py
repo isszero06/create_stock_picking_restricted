@@ -1,6 +1,6 @@
 {
     'name': 'Create Manual Stock Picking Restricted',
-    'version': '6.1.0',
+    'version': '7.1.0',
     'category': 'Warehouse',
     "author": 'Zero Systems',
     "company": 'Zero for Information Systems',
@@ -22,6 +22,5 @@
     'auto_install': False,
     "application": True,
     'images': ['static/description/stock_picking.png'],
-    'pre_init_check_vers': 'pre_init_check_vers',
 }
 
