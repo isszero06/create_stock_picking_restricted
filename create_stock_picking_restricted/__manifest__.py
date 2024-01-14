@@ -22,6 +22,5 @@
     'auto_install': False,
     "application": True,
     'images': ['static/description/stock_picking.png'],
-    'pre_init_check_vers': 'pre_init_check_vers',
 }
 
